@@ -1,0 +1,3 @@
+"""Patricia Merkle Trie."""
+class PatriciaTrie:
+    def root_hash(self) -> bytes: ...

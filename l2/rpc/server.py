@@ -1,0 +1,3 @@
+"""JSON-RPC 2.0 server with Flashblocks support."""
+class JsonRpcServer:
+    def register(self, method, handler): ...
