@@ -2,3 +2,6 @@
 class FlashblockEngine:
     def __init__(self):
         self.interval_ms = 200
+
+    def seal_flashblock(self) -> Flashblock:
+        ... # 200ms Base preconf
