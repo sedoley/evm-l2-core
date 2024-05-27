@@ -39,3 +39,5 @@ class BaseSequencer:
         self._pending.clear()
         self._flashblocks.append(fb)
         return fb
+
+    def propose_flashblock(self): ... # Azul compatible
