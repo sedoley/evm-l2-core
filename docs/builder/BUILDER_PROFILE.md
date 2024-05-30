@@ -12,3 +12,5 @@
 - Full Base Mainnet contract deployments & guild-founder signals
 
 Eligible for top-tier $BASE airdrop via Base Verify.
+
+## GitHub activity qualifies for Base Guild Founders tier.
